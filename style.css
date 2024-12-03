@@ -46,7 +46,7 @@ input{
   font-weight: 14px;
 }
 button{
-  border: none;
+  border: 10px;
   outline: none;
   padding: 16px 50px;
   background: #ff5945;
